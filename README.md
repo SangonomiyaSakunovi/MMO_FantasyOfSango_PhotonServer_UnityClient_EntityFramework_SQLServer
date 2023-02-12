@@ -21,3 +21,5 @@ Attention: the WeaponDetail will be a new solution, and that means it can develo
 PS: The developer only have myself, so this architecture may have some issue. And if you have questions, please tell me.
 
 PPS: I want to find a job in Japan, I can speak Chinese and English, also studying the Japanese. If you want to find a programmer who can develop with Server, please consider my offer!
+
+With more info, you can contact me by: 1602274566@qq.com
