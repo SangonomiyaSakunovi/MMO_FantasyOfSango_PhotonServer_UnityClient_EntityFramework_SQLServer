@@ -6,15 +6,15 @@ And you may realize that it`s so easy to develop with my architecture! You can c
 
 Here is the simple steps to start:
 
-Open the Server solution, exam all the projects and there relations;
+Step1: Open the Server solution, exam all the projects and there relations;
 
-Modify the Username and Password about SQL Server, this is very important!
+Step2: Modify the Username and Password about SQL Server, this is very important!
 
-In the Package Manager Console, type: "add-migration test", this line will let you create a MigrationFiles, then type: "update-database", after that you can find a new DataBase will create in your SQL Server.
+Step3: In the Package Manager Console, type: "add-migration test", this line will let you create a MigrationFiles, then type: "update-database", after that you can find a new DataBase will create in your SQL Server.
 
-In the Server Engine folder, exam the PhotonConfig, and the run the PhotonServer.
+Step4: In the Server Engine folder, exam the PhotonConfig, and the run the PhotonServer.
 
-Open Unity, import my ClientAsset, then run in Unity.
+Step5: Open Unity, import my ClientAsset, then run in Unity.
 
 Now you can test the Login and Register function.
 
