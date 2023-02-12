@@ -1,0 +1,6 @@
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\Common.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\Common.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.pdb

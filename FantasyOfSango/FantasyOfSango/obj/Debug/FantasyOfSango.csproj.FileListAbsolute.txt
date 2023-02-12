@@ -1,0 +1,12 @@
+D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\FantasyOfSango\SangoTest\bin\log4net.config
+D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\FantasyOfSango\SangoTest\bin\FantasyOfSango.dll
+D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\FantasyOfSango\SangoTest\bin\FantasyOfSango.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\obj\Debug\FantasyOfSango.csproj.AssemblyReference.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\obj\Debug\FantasyOfSango.csproj.CoreCompileInputs.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\obj\Debug\FantasyOfSango.csproj.CopyComplete
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\obj\Debug\FantasyOfSango.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\obj\Debug\FantasyOfSango.pdb
+D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin\FantasyOfSango.dll
+D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin\FantasyOfSango.pdb
+D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin\log4net.config
+D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin\FantasyOfSango.dll.config

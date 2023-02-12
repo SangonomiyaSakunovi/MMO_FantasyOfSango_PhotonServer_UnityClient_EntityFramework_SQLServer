@@ -1,0 +1,9 @@
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\PlayerData.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\PlayerData.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.csproj.AssemblyReference.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.csproj.CoreCompileInputs.cache
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Common.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Common.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.csproj.CopyComplete
