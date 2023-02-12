@@ -12,7 +12,7 @@ Step2: Modify the Username and Password about SQL Server, this is very important
 
 Step3: In the Package Manager Console, type: "add-migration test", this line will let you create a MigrationFiles, then type: "update-database", after that you can find a new DataBase will create in your SQL Server.
 
-Step4: In the Server Engine folder, exam the PhotonConfig, and the run the PhotonServer.
+Step4: In the Server Engine folder, exam the PhotonConfig, and then run the PhotonServer.
 
 Step5: Open Unity, import my ClientAsset, then run in Unity.
 
