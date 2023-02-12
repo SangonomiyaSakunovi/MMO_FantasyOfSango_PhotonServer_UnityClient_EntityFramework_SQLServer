@@ -1,0 +1,821 @@
+35688: 15:55:33.165 - ---
+35688: 15:55:33.165 - Service: "Photon Socket Server" starting
+35688: 15:55:33.165 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+35688: 15:55:33.167 - Will produce at most: 10 crash dumps
+35688: 15:55:33.167 - Action: run as exe
+35688: 15:55:33.167 - Server Starting...
+35688: 15:55:33.167 -    Tick count: 156620843 (wraps in: 47.8975 days)
+35688: 15:55:33.167 - Tick count 64: 156620843
+35688: 15:55:33.167 - Photon Version: 4.0.28.2962
+35688: 15:55:33.167 - PID: 25160
+35688: 15:55:33.167 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+35688: 15:55:33.167 - Will NOT log unimportant exceptions
+35688: 15:55:33.170 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+35688: 15:55:33.170 - Shutdown timeout enabled: 30000ms
+35688: 15:55:33.170 - Starting I/O thread pool with 2 threads
+35688: 15:55:33.170 - Using Standard allocator
+35688: 15:55:33.170 - Max message size: 512000
+35688: 15:55:33.170 - Starting business logic thread pool with the following settings
+35688: 15:55:33.170 - InitialThreads: 4 threads
+35688: 15:55:33.170 - MinThreads: 4 threads
+35688: 15:55:33.170 - Thread pool is fixed size
+35688: 15:55:33.170 - Starting ENet thread pool with the following settings
+35688: 15:55:33.170 - InitialThreads: 2 threads
+35688: 15:55:33.170 - MinThreads: 2 threads
+35688: 15:55:33.170 - Thread pool is fixed size
+35688: 15:55:33.170 - OnlyDispatchTimers: False
+35688: 15:55:33.170 - S2S: flow control: Max pending writes: 50
+35688: 15:55:33.170 - S2S: flow control: Max queued buffers: 200
+35688: 15:55:33.170 - S2S: flow control: Max pending writes MUX: 500
+35688: 15:55:33.170 - S2S: flow control: Max queued buffers MUX: 2000
+35688: 15:55:33.170 - S2S: MaxInboundMessageSize: 512000
+35688: 15:55:33.170 - S2S: MaxOutboundMessageSize: 512000
+35688: 15:55:33.170 - S2S: No inactivity timeout
+35688: 15:55:33.173 - WebSocket S2S: MaxInboundMessageSize: 512000
+35688: 15:55:33.173 - WebSocket S2S: MaxOutboundMessageSize: 512000
+35688: 15:55:33.173 - WebSocket S2S: No inactivity timeout
+35688: 15:55:33.174 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+35688: 15:55:33.174 - Per peer bandwidth limit
+35688: 15:55:33.174 - Transmit Rate Limit: 256 KB/Sec
+35688: 15:55:33.174 - Limit period: 200ms
+35688: 15:55:33.174 - Limit per period: 52428 bytes
+35688: 15:55:33.174 - Max queued data for transmission per peer: 512000 bytes
+35688: 15:55:33.174 - Minimum retransmit timeout: 200
+35688: 15:55:33.174 - No Maximum retransmit timeout
+35688: 15:55:33.174 - Minimum ENet timeout: 5000ms
+35688: 15:55:33.174 - Maximum ENet timeout: 30000ms
+35688: 15:55:33.174 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+35688: 15:55:33.174 - No RTT ACK adjustment timeout
+35688: 15:55:33.174 - Outbound ENet: MaxInboundMessageSize: 512000
+35688: 15:55:33.174 - Outbound ENet: MaxOutboundMessageSize: 512000
+35688: 15:55:33.175 - GetRuntime - About to load CLR - versions available:
+35688: 15:55:33.175 - v2.0.50727
+35688: 15:55:33.175 - v4.0.30319
+35688: 15:55:33.175 - Configuration requests: "v2.0.50727"
+35688: 15:55:33.175 - About to load version: "v2.0.50727"
+35688: 15:55:33.414 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+35688: 15:55:33.414 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+35688: 15:55:33.414 - Optimising event broadcast for 20 or more peers
+35688: 15:55:33.414 - Start: About to load CLR - versions available:
+35688: 15:55:33.414 - v2.0.50727
+35688: 15:55:33.414 - v4.0.30319
+35688: 15:55:33.414 - No preference in configuration file, will load latest.
+35688: 15:55:33.414 - About to load version: "v4.0.30319"
+35688: 15:55:33.415 - Loaded version: "v4.0.30319"
+35688: 15:55:33.595 - Photon host runtime loaded
+35688: 15:55:35.592 - License is valid.
+35688: 15:55:35.592 - Licensed for 100 concurrent connections.
+35688: 15:55:35.592 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+35688: 15:55:35.592 - ENet: Per peer bandwidth limit
+35688: 15:55:35.592 - ENet: Transmit Rate Limit: 256 KB/Sec
+35688: 15:55:35.592 - ENet: Limit period: 200ms
+35688: 15:55:35.592 - ENet: Limit per period: 52428 bytes
+35688: 15:55:35.592 - ENet: Max queued data for transmission per peer: 512000 bytes
+35688: 15:55:35.592 - ENet: Minimum retransmit timeout: 200
+35688: 15:55:35.592 - No Maximum retransmit timeout
+35688: 15:55:35.592 - ENet: Minimum timeout: 5000ms
+35688: 15:55:35.592 - ENet: Maximum timeout: 30000ms
+35688: 15:55:35.592 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+35688: 15:55:35.592 - No RTT ACK adjustment timeout
+35688: 15:55:35.592 - About to load application: SangoTest from FantasyOfSango
+35688: 15:55:35.592 - Auto restart is enabled for application, existing connections will be terminated during restart
+35688: 15:55:35.592 - Application will restart 1000ms after the last change detected
+35688: 15:55:35.592 - Application will restart if files matching the following are changed: "dll;config"
+35688: 15:55:35.592 - Application will NOT restart if files matching the following are changed: "log4net.config"
+35688: 15:55:36.199 - Taking reference on default app domain
+35688: 15:55:36.809 - Application: "SangoTest" started in app domain: 2
+35688: 15:55:36.809 - About to load application: CounterPublisher from CounterPublisher
+35688: 15:55:36.809 - Auto restart is enabled for application, existing connections will be terminated during restart
+35688: 15:55:36.809 - Application will restart 1000ms after the last change detected
+35688: 15:55:36.809 - Application will restart if files matching the following are changed: "dll;config"
+35688: 15:55:36.809 - Application will NOT restart if files matching the following are changed: "log4net.config"
+35688: 15:55:37.325 - Taking reference on default app domain
+35688: 15:55:37.922 - Application: "CounterPublisher" started in app domain: 3
+35688: 15:55:37.922 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+35688: 15:55:37.922 - TCP inactivity timeout: 10000ms
+35688: 15:55:37.922 - TCP disconnect timeout: 120000ms
+35688: 15:55:37.922 - MaxInboundMessageSize: 512000
+35688: 15:55:37.922 - MaxOutboundMessageSize: 512000
+35688: 15:55:37.922 - Forcing all applications ids to: "SangoTest"
+35688: 15:55:37.926 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+35688: 15:55:37.926 - Forcing all applications ids to: "SangoTest"
+35688: 15:55:37.926 - MaxInboundMessageSize: 512000
+35688: 15:55:37.926 - MaxOutboundMessageSize: 512000
+35688: 15:55:37.926 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+35688: 15:55:37.927 - Adding UDP listener on: 192.168.0.111: 5055 with a listen backlog of: 500
+35688: 15:55:37.927 - Adding UDP listener on: 172.21.128.1: 5055 with a listen backlog of: 500
+35688: 15:55:37.927 - Adding UDP listener on: 172.27.64.1: 5055 with a listen backlog of: 500
+35688: 15:55:37.927 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+35688: 15:55:37.927 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+35688: 15:55:37.927 - Nagle disabled
+35688: 15:55:37.927 - TCP inactivity timeout: 10000ms
+35688: 15:55:37.927 - MaxInboundMessageSize: 512000
+35688: 15:55:37.927 - MaxOutboundMessageSize: 512000
+35688: 15:55:37.927 - Forcing all applications ids to: "SangoTest"
+35688: 15:55:37.927 - Will accept ANY sub-protocols from the client
+35688: 15:55:37.927 - No automatic WebSocket ping
+35688: 15:55:37.927 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+35688: 15:55:37.927 - TCP inactivity timeout: 10000ms
+35688: 15:55:37.932 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy-silverlight.xml"
+35688: 15:55:37.934 - TCP inactivity timeout: 10000ms
+35688: 15:55:37.956 - Service is running...
+2072: 16:15:00.551 - Restarting application: "SangoTest" due to file changes
+2072: 16:15:00.551 - Application: "SangoTest" restart request (abort existing connections)
+2072: 16:15:00.721 - Taking reference on default app domain
+2072: 16:15:01.422 - Application: "SangoTest" started in app domain: 4
+2072: 16:15:01.515 - RequestApplicationStop: 2
+2072: 16:15:01.516 - Application: "SangoTest" stopped in app domain: 2 (abort existing connections)
+2072: 16:15:01.516 - Application: "SangoTest" restart complete.
+10396: 16:15:01.516 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+11732: 16:15:01.519 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='2'
+10396: 16:15:01.519 - CManagedHost::OnDomainUnload() - 2
+2072: 17:12:13.137 - Restarting application: "SangoTest" due to file changes
+2072: 17:12:13.137 - Application: "SangoTest" restart request (abort existing connections)
+2072: 17:12:13.587 - Taking reference on default app domain
+2072: 17:12:15.727 - Application: "SangoTest" started in app domain: 5
+2072: 17:12:15.812 - RequestApplicationStop: 4
+2072: 17:12:15.842 - Application: "SangoTest" stopped in app domain: 4 (abort existing connections)
+2072: 17:12:15.842 - Application: "SangoTest" restart complete.
+10396: 17:12:15.844 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+11732: 17:12:15.846 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='4'
+10396: 17:12:15.846 - CManagedHost::OnDomainUnload() - 4
+35688: 17:12:17.186 - Service is stopped...
+35688: 17:12:17.186 - Server shutting down...
+35688: 17:12:17.186 - Shutdown monitoring enabled, 30000ms before process abort
+35688: 17:12:17.211 - Notifying CLR applications of shutdown...
+35688: 17:12:17.211 - RequestApplicationStop: 3
+35688: 17:12:17.213 - RequestApplicationStop: 5
+35688: 17:12:17.224 - RequestStop: defalt app domain
+35688: 17:12:17.224 - Shutting down WebSocket Outbound Connection Manager...
+35688: 17:12:17.251 - Shutting down TCP Outbound Connection Manager...
+35688: 17:12:17.252 - Shutting down ENet Outbound Connection Manager...
+35688: 17:12:17.252 - Disconnecting all outbound peers...
+35688: 17:12:17.252 - Shutting down ENet host...
+35688: 17:12:17.252 - Disconnecting all peers...
+35688: 17:12:17.252 - Shutting down socket servers...
+35688: 17:12:17.252 - Shutting down ENet thread pool...
+35688: 17:12:17.252 - Shutting down TCP inactivity timers...
+35688: 17:12:17.254 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+35688: 17:12:17.254 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+35688: 17:12:17.254 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+35688: 17:12:17.254 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+35688: 17:12:17.254 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+35688: 17:12:17.254 - OnShutdownCompleted: TCP:0.0.0.0:4530
+35688: 17:12:17.254 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+35688: 17:12:17.254 - OnShutdownCompleted: UDP:127.0.0.1:5055
+35688: 17:12:17.254 - WaitingForShutdownToComplete: UDP:172.21.128.1:5055
+35688: 17:12:17.254 - OnShutdownCompleted: UDP:172.21.128.1:5055
+35688: 17:12:17.254 - WaitingForShutdownToComplete: UDP:172.27.64.1:5055
+35688: 17:12:17.254 - OnShutdownCompleted: UDP:172.27.64.1:5055
+35688: 17:12:17.254 - WaitingForShutdownToComplete: UDP:192.168.0.111:5055
+35688: 17:12:17.254 - OnShutdownCompleted: UDP:192.168.0.111:5055
+35688: 17:12:17.254 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+35688: 17:12:17.254 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+35688: 17:12:17.254 - Shutting down CLR applications...
+10396: 17:12:17.255 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+35688: 17:12:17.256 - Shutting down business logic thread pool...
+35688: 17:12:17.256 - Shutting down I/O thread pool...
+35688: 17:12:17.257 - Destroying servers
+35688: 17:12:17.257 - Destroying WebSocket Outbound Connection Manager
+35688: 17:12:17.257 - Destroying TCP Outbound Connection Manager
+35688: 17:12:17.257 - Destroying TCP inactivity timer
+35688: 17:12:17.257 - Destroying ENet timer wheel
+35688: 17:12:17.257 - Destroying ENet host
+35688: 17:12:17.257 - Destroying ENet outbound host
+35688: 17:12:17.257 - Destroying HTTP inactivity timer
+35688: 17:12:17.257 - Destroying HTTP host
+35688: 17:12:17.257 - Destroying HTTP Chunk host
+35688: 17:12:17.257 - Flushing ENET buffer allocator...
+35688: 17:12:17.258 - Flushing TCP buffer handle allocator...
+35688: 17:12:17.258 - Flushing stream socket allocator...
+35688: 17:12:17.258 - Flushing inbound datagram socket allocator...
+35688: 17:12:17.259 - Flushing outbound datagram socket allocator...
+35688: 17:12:17.259 - Destroying CLR dispatcher
+35688: 17:12:17.259 - Destroying CLR applications
+35688: 17:12:17.260 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+11732: 17:12:17.262 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+10396: 17:12:17.262 - CManagedHost::OnDomainUnload() - 3
+10396: 17:12:17.264 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+11732: 17:12:17.268 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='5'
+10396: 17:12:17.268 - CManagedHost::OnDomainUnload() - 5
+35688: 17:12:17.269 - ~CCLRApplicationCollection() - Done. All objects released
+35688: 17:12:17.270 - ~CManagedHost() - Release default app domain
+35688: 17:12:17.270 - CManagedHost::OnDomainUnload() - 1
+35688: 17:12:17.270 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+35688: 17:12:17.270 - ~CManagedHost
+35688: 17:12:17.271 - Destroying ENet thread pool
+35688: 17:12:17.271 - Destroying Business logic thread pool
+35688: 17:12:17.271 - Destroying I/O thread pool
+35688: 17:12:17.271 - Destroying ENet buffer allocator
+35688: 17:12:17.271 - Destroying TCP buffer allocator
+35688: 17:12:17.271 - Destroying TCP socket allocator
+35688: 17:12:17.271 - Destroying ENet inbound socket allocator
+35688: 17:12:17.271 - Destroying ENet outbound socket allocator
+35688: 17:12:17.271 - Destroying shared datagram flow control data
+35688: 17:12:17.272 - Shutdown complete...
+35688: 17:12:17.272 - Service shutting down
+35688: 17:12:17.274 - Service shut down complete
+30504: 17:12:26.901 - ---
+30504: 17:12:26.901 - Service: "Photon Socket Server" starting
+30504: 17:12:26.901 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+30504: 17:12:26.903 - Will produce at most: 10 crash dumps
+30504: 17:12:26.904 - Action: run as exe
+30504: 17:12:26.904 - Server Starting...
+30504: 17:12:26.904 -    Tick count: 161234578 (wraps in: 47.8441 days)
+30504: 17:12:26.904 - Tick count 64: 161234578
+30504: 17:12:26.904 - Photon Version: 4.0.28.2962
+30504: 17:12:26.904 - PID: 35632
+30504: 17:12:26.904 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+30504: 17:12:26.904 - Will NOT log unimportant exceptions
+30504: 17:12:26.906 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+30504: 17:12:26.906 - Shutdown timeout enabled: 30000ms
+30504: 17:12:26.906 - Starting I/O thread pool with 2 threads
+30504: 17:12:26.906 - Using Standard allocator
+30504: 17:12:26.906 - Max message size: 512000
+30504: 17:12:26.906 - Starting business logic thread pool with the following settings
+30504: 17:12:26.906 - InitialThreads: 4 threads
+30504: 17:12:26.906 - MinThreads: 4 threads
+30504: 17:12:26.906 - Thread pool is fixed size
+30504: 17:12:26.906 - Starting ENet thread pool with the following settings
+30504: 17:12:26.906 - InitialThreads: 2 threads
+30504: 17:12:26.906 - MinThreads: 2 threads
+30504: 17:12:26.906 - Thread pool is fixed size
+30504: 17:12:26.906 - OnlyDispatchTimers: False
+30504: 17:12:26.906 - S2S: flow control: Max pending writes: 50
+30504: 17:12:26.906 - S2S: flow control: Max queued buffers: 200
+30504: 17:12:26.906 - S2S: flow control: Max pending writes MUX: 500
+30504: 17:12:26.906 - S2S: flow control: Max queued buffers MUX: 2000
+30504: 17:12:26.906 - S2S: MaxInboundMessageSize: 512000
+30504: 17:12:26.906 - S2S: MaxOutboundMessageSize: 512000
+30504: 17:12:26.906 - S2S: No inactivity timeout
+30504: 17:12:26.909 - WebSocket S2S: MaxInboundMessageSize: 512000
+30504: 17:12:26.909 - WebSocket S2S: MaxOutboundMessageSize: 512000
+30504: 17:12:26.909 - WebSocket S2S: No inactivity timeout
+30504: 17:12:26.909 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+30504: 17:12:26.909 - Per peer bandwidth limit
+30504: 17:12:26.909 - Transmit Rate Limit: 256 KB/Sec
+30504: 17:12:26.909 - Limit period: 200ms
+30504: 17:12:26.909 - Limit per period: 52428 bytes
+30504: 17:12:26.909 - Max queued data for transmission per peer: 512000 bytes
+30504: 17:12:26.909 - Minimum retransmit timeout: 200
+30504: 17:12:26.909 - No Maximum retransmit timeout
+30504: 17:12:26.909 - Minimum ENet timeout: 5000ms
+30504: 17:12:26.909 - Maximum ENet timeout: 30000ms
+30504: 17:12:26.909 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+30504: 17:12:26.909 - No RTT ACK adjustment timeout
+30504: 17:12:26.909 - Outbound ENet: MaxInboundMessageSize: 512000
+30504: 17:12:26.909 - Outbound ENet: MaxOutboundMessageSize: 512000
+30504: 17:12:26.910 - GetRuntime - About to load CLR - versions available:
+30504: 17:12:26.910 - v2.0.50727
+30504: 17:12:26.910 - v4.0.30319
+30504: 17:12:26.910 - Configuration requests: "v2.0.50727"
+30504: 17:12:26.910 - About to load version: "v2.0.50727"
+30504: 17:12:26.915 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+30504: 17:12:26.915 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+30504: 17:12:26.915 - Optimising event broadcast for 20 or more peers
+30504: 17:12:26.915 - Start: About to load CLR - versions available:
+30504: 17:12:26.915 - v2.0.50727
+30504: 17:12:26.915 - v4.0.30319
+30504: 17:12:26.915 - No preference in configuration file, will load latest.
+30504: 17:12:26.915 - About to load version: "v4.0.30319"
+30504: 17:12:26.916 - Loaded version: "v4.0.30319"
+30504: 17:12:27.023 - Photon host runtime loaded
+30504: 17:12:28.985 - License is valid.
+30504: 17:12:28.985 - Licensed for 100 concurrent connections.
+30504: 17:12:28.986 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+30504: 17:12:28.986 - ENet: Per peer bandwidth limit
+30504: 17:12:28.986 - ENet: Transmit Rate Limit: 256 KB/Sec
+30504: 17:12:28.986 - ENet: Limit period: 200ms
+30504: 17:12:28.986 - ENet: Limit per period: 52428 bytes
+30504: 17:12:28.986 - ENet: Max queued data for transmission per peer: 512000 bytes
+30504: 17:12:28.986 - ENet: Minimum retransmit timeout: 200
+30504: 17:12:28.986 - No Maximum retransmit timeout
+30504: 17:12:28.986 - ENet: Minimum timeout: 5000ms
+30504: 17:12:28.986 - ENet: Maximum timeout: 30000ms
+30504: 17:12:28.986 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+30504: 17:12:28.986 - No RTT ACK adjustment timeout
+30504: 17:12:28.986 - About to load application: SangoTest from FantasyOfSango
+30504: 17:12:28.986 - Auto restart is enabled for application, existing connections will be terminated during restart
+30504: 17:12:28.986 - Application will restart 1000ms after the last change detected
+30504: 17:12:28.986 - Application will restart if files matching the following are changed: "dll;config"
+30504: 17:12:28.986 - Application will NOT restart if files matching the following are changed: "log4net.config"
+30504: 17:12:29.155 - Taking reference on default app domain
+30504: 17:12:29.309 - Application: "SangoTest" started in app domain: 2
+30504: 17:12:29.309 - About to load application: CounterPublisher from CounterPublisher
+30504: 17:12:29.309 - Auto restart is enabled for application, existing connections will be terminated during restart
+30504: 17:12:29.309 - Application will restart 1000ms after the last change detected
+30504: 17:12:29.309 - Application will restart if files matching the following are changed: "dll;config"
+30504: 17:12:29.309 - Application will NOT restart if files matching the following are changed: "log4net.config"
+30504: 17:12:29.474 - Taking reference on default app domain
+30504: 17:12:29.612 - Application: "CounterPublisher" started in app domain: 3
+30504: 17:12:29.612 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+30504: 17:12:29.612 - TCP inactivity timeout: 10000ms
+30504: 17:12:29.612 - TCP disconnect timeout: 120000ms
+30504: 17:12:29.612 - MaxInboundMessageSize: 512000
+30504: 17:12:29.612 - MaxOutboundMessageSize: 512000
+30504: 17:12:29.612 - Forcing all applications ids to: "SangoTest"
+30504: 17:12:29.612 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+30504: 17:12:29.612 - Forcing all applications ids to: "SangoTest"
+30504: 17:12:29.612 - MaxInboundMessageSize: 512000
+30504: 17:12:29.612 - MaxOutboundMessageSize: 512000
+30504: 17:12:29.612 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+30504: 17:12:29.613 - Adding UDP listener on: 192.168.0.111: 5055 with a listen backlog of: 500
+30504: 17:12:29.613 - Adding UDP listener on: 172.21.128.1: 5055 with a listen backlog of: 500
+30504: 17:12:29.613 - Adding UDP listener on: 172.27.64.1: 5055 with a listen backlog of: 500
+30504: 17:12:29.613 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+30504: 17:12:29.613 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+30504: 17:12:29.613 - Nagle disabled
+30504: 17:12:29.613 - TCP inactivity timeout: 10000ms
+30504: 17:12:29.613 - MaxInboundMessageSize: 512000
+30504: 17:12:29.613 - MaxOutboundMessageSize: 512000
+30504: 17:12:29.613 - Forcing all applications ids to: "SangoTest"
+30504: 17:12:29.613 - Will accept ANY sub-protocols from the client
+30504: 17:12:29.613 - No automatic WebSocket ping
+30504: 17:12:29.613 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+30504: 17:12:29.613 - TCP inactivity timeout: 10000ms
+30504: 17:12:29.613 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy-silverlight.xml"
+30504: 17:12:29.613 - TCP inactivity timeout: 10000ms
+30504: 17:12:29.635 - Service is running...
+30112: 20:26:46.413 - Restarting application: "SangoTest" due to file changes
+30112: 20:26:46.413 - Application: "SangoTest" restart request (abort existing connections)
+30112: 20:26:47.088 - Taking reference on default app domain
+30112: 20:26:47.569 - Application: "SangoTest" started in app domain: 4
+30112: 20:26:47.670 - RequestApplicationStop: 2
+30112: 20:26:47.673 - Application: "SangoTest" stopped in app domain: 2 (abort existing connections)
+30112: 20:26:47.673 - Application: "SangoTest" restart complete.
+22164: 20:26:47.673 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+31936: 20:26:47.674 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='2'
+22164: 20:26:47.675 - CManagedHost::OnDomainUnload() - 2
+30112: 20:32:09.236 - Restarting application: "SangoTest" due to file changes
+30112: 20:32:09.236 - Application: "SangoTest" restart request (abort existing connections)
+30112: 20:32:09.406 - Taking reference on default app domain
+30112: 20:32:09.574 - Application: "SangoTest" started in app domain: 5
+30112: 20:32:09.649 - RequestApplicationStop: 4
+22164: 20:32:09.659 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+30112: 20:32:09.659 - Application: "SangoTest" stopped in app domain: 4 (abort existing connections)
+30112: 20:32:09.659 - Application: "SangoTest" restart complete.
+31936: 20:32:09.660 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='4'
+22164: 20:32:09.660 - CManagedHost::OnDomainUnload() - 4
+30112: 20:32:23.765 - Restarting application: "SangoTest" due to file changes
+30112: 20:32:23.765 - Application: "SangoTest" restart request (abort existing connections)
+30112: 20:32:23.942 - Taking reference on default app domain
+30112: 20:32:24.879 - Application: "SangoTest" started in app domain: 6
+30112: 20:32:24.954 - RequestApplicationStop: 5
+30112: 20:32:24.964 - Application: "SangoTest" stopped in app domain: 5 (abort existing connections)
+22164: 20:32:24.964 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+30112: 20:32:24.964 - Application: "SangoTest" restart complete.
+31936: 20:32:24.965 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='5'
+22164: 20:32:24.965 - CManagedHost::OnDomainUnload() - 5
+30504: 20:32:30.893 - Service is stopped...
+30504: 20:32:30.893 - Server shutting down...
+30504: 20:32:30.893 - Shutdown monitoring enabled, 30000ms before process abort
+30504: 20:32:30.893 - Notifying CLR applications of shutdown...
+30504: 20:32:30.893 - RequestApplicationStop: 3
+30504: 20:32:30.895 - RequestApplicationStop: 6
+30504: 20:32:30.905 - RequestStop: defalt app domain
+30504: 20:32:30.907 - Shutting down WebSocket Outbound Connection Manager...
+30504: 20:32:30.907 - Shutting down TCP Outbound Connection Manager...
+30504: 20:32:30.907 - Shutting down ENet Outbound Connection Manager...
+30504: 20:32:30.907 - Disconnecting all outbound peers...
+30504: 20:32:30.907 - Shutting down ENet host...
+30504: 20:32:30.907 - Disconnecting all peers...
+30504: 20:32:30.907 - Shutting down socket servers...
+30504: 20:32:30.907 - Shutting down ENet thread pool...
+30504: 20:32:30.907 - Shutting down TCP inactivity timers...
+30504: 20:32:30.908 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+30504: 20:32:30.908 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+30504: 20:32:30.908 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+30504: 20:32:30.908 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+30504: 20:32:30.908 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+30504: 20:32:30.908 - OnShutdownCompleted: TCP:0.0.0.0:4530
+30504: 20:32:30.908 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+30504: 20:32:30.908 - OnShutdownCompleted: UDP:127.0.0.1:5055
+30504: 20:32:30.908 - WaitingForShutdownToComplete: UDP:172.21.128.1:5055
+30504: 20:32:30.908 - OnShutdownCompleted: UDP:172.21.128.1:5055
+30504: 20:32:30.908 - WaitingForShutdownToComplete: UDP:172.27.64.1:5055
+30504: 20:32:30.908 - OnShutdownCompleted: UDP:172.27.64.1:5055
+30504: 20:32:30.908 - WaitingForShutdownToComplete: UDP:192.168.0.111:5055
+30504: 20:32:30.908 - OnShutdownCompleted: UDP:192.168.0.111:5055
+30504: 20:32:30.908 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+30504: 20:32:30.908 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+30504: 20:32:30.908 - Shutting down CLR applications...
+22164: 20:32:30.912 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+30504: 20:32:30.912 - Shutting down business logic thread pool...
+30504: 20:32:30.913 - Shutting down I/O thread pool...
+30504: 20:32:30.913 - Destroying servers
+30504: 20:32:30.913 - Destroying WebSocket Outbound Connection Manager
+30504: 20:32:30.913 - Destroying TCP Outbound Connection Manager
+30504: 20:32:30.913 - Destroying TCP inactivity timer
+30504: 20:32:30.913 - Destroying ENet timer wheel
+30504: 20:32:30.913 - Destroying ENet host
+30504: 20:32:30.913 - Destroying ENet outbound host
+30504: 20:32:30.913 - Destroying HTTP inactivity timer
+30504: 20:32:30.913 - Destroying HTTP host
+30504: 20:32:30.913 - Destroying HTTP Chunk host
+30504: 20:32:30.913 - Flushing ENET buffer allocator...
+30504: 20:32:30.914 - Flushing TCP buffer handle allocator...
+30504: 20:32:30.914 - Flushing stream socket allocator...
+30504: 20:32:30.915 - Flushing inbound datagram socket allocator...
+30504: 20:32:30.915 - Flushing outbound datagram socket allocator...
+30504: 20:32:30.915 - Destroying CLR dispatcher
+30504: 20:32:30.915 - Destroying CLR applications
+30504: 20:32:30.915 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+31936: 20:32:30.920 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+22164: 20:32:30.921 - CManagedHost::OnDomainUnload() - 3
+22164: 20:32:30.922 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+31936: 20:32:30.925 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='6'
+22164: 20:32:30.927 - CManagedHost::OnDomainUnload() - 6
+30504: 20:32:30.927 - ~CCLRApplicationCollection() - Done. All objects released
+30504: 20:32:30.927 - ~CManagedHost() - Release default app domain
+30504: 20:32:30.927 - CManagedHost::OnDomainUnload() - 1
+30504: 20:32:30.927 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+30504: 20:32:30.927 - ~CManagedHost
+30504: 20:32:30.927 - Destroying ENet thread pool
+30504: 20:32:30.928 - Destroying Business logic thread pool
+30504: 20:32:30.928 - Destroying I/O thread pool
+30504: 20:32:30.928 - Destroying ENet buffer allocator
+30504: 20:32:30.928 - Destroying TCP buffer allocator
+30504: 20:32:30.928 - Destroying TCP socket allocator
+30504: 20:32:30.928 - Destroying ENet inbound socket allocator
+30504: 20:32:30.928 - Destroying ENet outbound socket allocator
+30504: 20:32:30.928 - Destroying shared datagram flow control data
+30504: 20:32:30.928 - Shutdown complete...
+30504: 20:32:30.928 - Service shutting down
+30504: 20:32:30.930 - Service shut down complete
+16772: 20:32:44.441 - ---
+16772: 20:32:44.441 - Service: "Photon Socket Server" starting
+16772: 20:32:44.441 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+16772: 20:32:44.442 - Will produce at most: 10 crash dumps
+16772: 20:32:44.442 - Action: run as exe
+16772: 20:32:44.442 - Server Starting...
+16772: 20:32:44.442 -    Tick count: 173252125 (wraps in: 47.705 days)
+16772: 20:32:44.442 - Tick count 64: 173252125
+16772: 20:32:44.442 - Photon Version: 4.0.28.2962
+16772: 20:32:44.442 - PID: 38596
+16772: 20:32:44.442 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+16772: 20:32:44.442 - Will NOT log unimportant exceptions
+16772: 20:32:44.444 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+16772: 20:32:44.444 - Shutdown timeout enabled: 30000ms
+16772: 20:32:44.444 - Starting I/O thread pool with 2 threads
+16772: 20:32:44.444 - Using Standard allocator
+16772: 20:32:44.444 - Max message size: 512000
+16772: 20:32:44.444 - Starting business logic thread pool with the following settings
+16772: 20:32:44.444 - InitialThreads: 4 threads
+16772: 20:32:44.444 - MinThreads: 4 threads
+16772: 20:32:44.444 - Thread pool is fixed size
+16772: 20:32:44.444 - Starting ENet thread pool with the following settings
+16772: 20:32:44.444 - InitialThreads: 2 threads
+16772: 20:32:44.444 - MinThreads: 2 threads
+16772: 20:32:44.444 - Thread pool is fixed size
+16772: 20:32:44.444 - OnlyDispatchTimers: False
+16772: 20:32:44.445 - S2S: flow control: Max pending writes: 50
+16772: 20:32:44.445 - S2S: flow control: Max queued buffers: 200
+16772: 20:32:44.445 - S2S: flow control: Max pending writes MUX: 500
+16772: 20:32:44.445 - S2S: flow control: Max queued buffers MUX: 2000
+16772: 20:32:44.445 - S2S: MaxInboundMessageSize: 512000
+16772: 20:32:44.445 - S2S: MaxOutboundMessageSize: 512000
+16772: 20:32:44.445 - S2S: No inactivity timeout
+16772: 20:32:44.448 - WebSocket S2S: MaxInboundMessageSize: 512000
+16772: 20:32:44.448 - WebSocket S2S: MaxOutboundMessageSize: 512000
+16772: 20:32:44.448 - WebSocket S2S: No inactivity timeout
+16772: 20:32:44.448 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+16772: 20:32:44.448 - Per peer bandwidth limit
+16772: 20:32:44.448 - Transmit Rate Limit: 256 KB/Sec
+16772: 20:32:44.448 - Limit period: 200ms
+16772: 20:32:44.448 - Limit per period: 52428 bytes
+16772: 20:32:44.448 - Max queued data for transmission per peer: 512000 bytes
+16772: 20:32:44.448 - Minimum retransmit timeout: 200
+16772: 20:32:44.448 - No Maximum retransmit timeout
+16772: 20:32:44.448 - Minimum ENet timeout: 5000ms
+16772: 20:32:44.448 - Maximum ENet timeout: 30000ms
+16772: 20:32:44.448 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+16772: 20:32:44.448 - No RTT ACK adjustment timeout
+16772: 20:32:44.448 - Outbound ENet: MaxInboundMessageSize: 512000
+16772: 20:32:44.448 - Outbound ENet: MaxOutboundMessageSize: 512000
+16772: 20:32:44.449 - GetRuntime - About to load CLR - versions available:
+16772: 20:32:44.449 - v2.0.50727
+16772: 20:32:44.449 - v4.0.30319
+16772: 20:32:44.449 - Configuration requests: "v2.0.50727"
+16772: 20:32:44.449 - About to load version: "v2.0.50727"
+16772: 20:32:44.454 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+16772: 20:32:44.454 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+16772: 20:32:44.454 - Optimising event broadcast for 20 or more peers
+16772: 20:32:44.455 - Start: About to load CLR - versions available:
+16772: 20:32:44.455 - v2.0.50727
+16772: 20:32:44.455 - v4.0.30319
+16772: 20:32:44.455 - No preference in configuration file, will load latest.
+16772: 20:32:44.455 - About to load version: "v4.0.30319"
+16772: 20:32:44.456 - Loaded version: "v4.0.30319"
+16772: 20:32:44.628 - Photon host runtime loaded
+16772: 20:32:46.823 - License is valid.
+16772: 20:32:46.823 - Licensed for 100 concurrent connections.
+16772: 20:32:46.823 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+16772: 20:32:46.823 - ENet: Per peer bandwidth limit
+16772: 20:32:46.823 - ENet: Transmit Rate Limit: 256 KB/Sec
+16772: 20:32:46.823 - ENet: Limit period: 200ms
+16772: 20:32:46.823 - ENet: Limit per period: 52428 bytes
+16772: 20:32:46.823 - ENet: Max queued data for transmission per peer: 512000 bytes
+16772: 20:32:46.823 - ENet: Minimum retransmit timeout: 200
+16772: 20:32:46.823 - No Maximum retransmit timeout
+16772: 20:32:46.823 - ENet: Minimum timeout: 5000ms
+16772: 20:32:46.823 - ENet: Maximum timeout: 30000ms
+16772: 20:32:46.823 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+16772: 20:32:46.823 - No RTT ACK adjustment timeout
+16772: 20:32:46.823 - About to load application: SangoTest from FantasyOfSango
+16772: 20:32:46.823 - Auto restart is enabled for application, existing connections will be terminated during restart
+16772: 20:32:46.823 - Application will restart 1000ms after the last change detected
+16772: 20:32:46.823 - Application will restart if files matching the following are changed: "dll;config"
+16772: 20:32:46.823 - Application will NOT restart if files matching the following are changed: "log4net.config"
+16772: 20:32:46.998 - Taking reference on default app domain
+16772: 20:32:47.154 - Application: "SangoTest" started in app domain: 2
+16772: 20:32:47.154 - About to load application: CounterPublisher from CounterPublisher
+16772: 20:32:47.154 - Auto restart is enabled for application, existing connections will be terminated during restart
+16772: 20:32:47.154 - Application will restart 1000ms after the last change detected
+16772: 20:32:47.154 - Application will restart if files matching the following are changed: "dll;config"
+16772: 20:32:47.154 - Application will NOT restart if files matching the following are changed: "log4net.config"
+16772: 20:32:47.657 - Taking reference on default app domain
+16772: 20:32:48.267 - Application: "CounterPublisher" started in app domain: 3
+16772: 20:32:48.267 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+16772: 20:32:48.267 - TCP inactivity timeout: 10000ms
+16772: 20:32:48.267 - TCP disconnect timeout: 120000ms
+16772: 20:32:48.267 - MaxInboundMessageSize: 512000
+16772: 20:32:48.267 - MaxOutboundMessageSize: 512000
+16772: 20:32:48.267 - Forcing all applications ids to: "SangoTest"
+16772: 20:32:48.271 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+16772: 20:32:48.271 - Forcing all applications ids to: "SangoTest"
+16772: 20:32:48.271 - MaxInboundMessageSize: 512000
+16772: 20:32:48.271 - MaxOutboundMessageSize: 512000
+16772: 20:32:48.271 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+16772: 20:32:48.273 - Adding UDP listener on: 192.168.0.111: 5055 with a listen backlog of: 500
+16772: 20:32:48.273 - Adding UDP listener on: 172.21.128.1: 5055 with a listen backlog of: 500
+16772: 20:32:48.273 - Adding UDP listener on: 172.27.64.1: 5055 with a listen backlog of: 500
+16772: 20:32:48.273 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+16772: 20:32:48.273 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+16772: 20:32:48.273 - Nagle disabled
+16772: 20:32:48.273 - TCP inactivity timeout: 10000ms
+16772: 20:32:48.273 - MaxInboundMessageSize: 512000
+16772: 20:32:48.273 - MaxOutboundMessageSize: 512000
+16772: 20:32:48.273 - Forcing all applications ids to: "SangoTest"
+16772: 20:32:48.273 - Will accept ANY sub-protocols from the client
+16772: 20:32:48.273 - No automatic WebSocket ping
+16772: 20:32:48.273 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+16772: 20:32:48.273 - TCP inactivity timeout: 10000ms
+16772: 20:32:48.279 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy-silverlight.xml"
+16772: 20:32:48.279 - TCP inactivity timeout: 10000ms
+16772: 20:32:48.302 - Service is running...
+19604: 21:44:35.462 - Restarting application: "SangoTest" due to file changes
+19604: 21:44:35.462 - Application: "SangoTest" restart request (abort existing connections)
+19604: 21:44:35.549 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "SangoTest" - Can't find FantasyOfSango.dll in D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\CounterPublisher\bin or D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin
+19604: 21:46:51.046 - Restarting application: "SangoTest" due to file changes
+19604: 21:46:51.046 - Application: "SangoTest" restart request (abort existing connections)
+19604: 21:46:51.350 - Taking reference on default app domain
+19604: 21:46:52.456 - Application: "SangoTest" started in app domain: 4
+19604: 21:46:52.845 - RequestApplicationStop: 2
+19604: 21:46:52.848 - Application: "SangoTest" stopped in app domain: 2 (abort existing connections)
+19604: 21:46:52.848 - Application: "SangoTest" restart complete.
+25168: 21:46:52.848 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+3944: 21:46:52.849 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='2'
+25168: 21:46:52.849 - CManagedHost::OnDomainUnload() - 2
+16772: 21:49:29.965 - Service is stopped...
+16772: 21:49:29.965 - Server shutting down...
+16772: 21:49:29.965 - Shutdown monitoring enabled, 30000ms before process abort
+16772: 21:49:29.965 - Notifying CLR applications of shutdown...
+16772: 21:49:29.965 - RequestApplicationStop: 3
+16772: 21:49:29.968 - RequestApplicationStop: 4
+16772: 21:49:29.971 - RequestStop: defalt app domain
+16772: 21:49:29.973 - Shutting down WebSocket Outbound Connection Manager...
+16772: 21:49:29.973 - Shutting down TCP Outbound Connection Manager...
+16772: 21:49:29.973 - Shutting down ENet Outbound Connection Manager...
+16772: 21:49:29.973 - Disconnecting all outbound peers...
+16772: 21:49:29.973 - Shutting down ENet host...
+16772: 21:49:29.973 - Disconnecting all peers...
+16772: 21:49:29.973 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An operation was attempted on something that is not a socket.
+16772: 21:49:29.973 - 1 disconnected
+16772: 21:49:29.973 - Shutting down socket servers...
+16772: 21:49:29.973 - Shutting down ENet thread pool...
+16772: 21:49:29.973 - Shutting down TCP inactivity timers...
+16772: 21:49:29.974 - ENet Host - Resetting all peers...
+16772: 21:49:29.974 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+16772: 21:49:29.974 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+16772: 21:49:29.974 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+16772: 21:49:29.974 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+16772: 21:49:29.974 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+16772: 21:49:29.974 - OnShutdownCompleted: TCP:0.0.0.0:4530
+16772: 21:49:29.974 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+16772: 21:49:29.975 - OnShutdownCompleted: UDP:127.0.0.1:5055
+16772: 21:49:29.975 - WaitingForShutdownToComplete: UDP:172.21.128.1:5055
+16772: 21:49:29.975 - OnShutdownCompleted: UDP:172.21.128.1:5055
+16772: 21:49:29.975 - WaitingForShutdownToComplete: UDP:172.27.64.1:5055
+16772: 21:49:29.975 - OnShutdownCompleted: UDP:172.27.64.1:5055
+16772: 21:49:29.975 - WaitingForShutdownToComplete: UDP:192.168.0.111:5055
+16772: 21:49:29.975 - OnShutdownCompleted: UDP:192.168.0.111:5055
+16772: 21:49:29.975 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+16772: 21:49:29.975 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+16772: 21:49:29.975 - Shutting down CLR applications...
+25168: 21:49:29.987 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+3944: 21:49:29.995 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+25168: 21:49:29.995 - CManagedHost::OnDomainUnload() - 3
+16772: 21:49:29.996 - Shutting down business logic thread pool...
+16772: 21:49:29.996 - Shutting down I/O thread pool...
+16772: 21:49:29.996 - Destroying servers
+16772: 21:49:29.996 - Destroying WebSocket Outbound Connection Manager
+16772: 21:49:29.996 - Destroying TCP Outbound Connection Manager
+16772: 21:49:29.996 - Destroying TCP inactivity timer
+16772: 21:49:29.996 - Destroying ENet timer wheel
+16772: 21:49:29.996 - Destroying ENet host
+16772: 21:49:29.996 - Destroying ENet outbound host
+16772: 21:49:29.996 - Destroying HTTP inactivity timer
+16772: 21:49:29.996 - Destroying HTTP host
+16772: 21:49:29.996 - Destroying HTTP Chunk host
+16772: 21:49:29.996 - Flushing ENET buffer allocator...
+16772: 21:49:29.997 - Flushing TCP buffer handle allocator...
+16772: 21:49:29.997 - Flushing stream socket allocator...
+16772: 21:49:29.998 - Flushing inbound datagram socket allocator...
+25168: 21:49:29.999 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+16772: 21:49:29.999 - Flushing outbound datagram socket allocator...
+16772: 21:49:29.999 - Destroying CLR dispatcher
+16772: 21:49:29.999 - Destroying CLR applications
+16772: 21:49:29.999 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+3944: 21:49:30.002 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='4'
+25168: 21:49:30.002 - CManagedHost::OnDomainUnload() - 4
+16772: 21:49:30.003 - ~CCLRApplicationCollection() - Done. All objects released
+16772: 21:49:30.004 - ~CManagedHost() - Release default app domain
+16772: 21:49:30.004 - CManagedHost::OnDomainUnload() - 1
+16772: 21:49:30.004 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+16772: 21:49:30.004 - ~CManagedHost
+16772: 21:49:30.004 - Destroying ENet thread pool
+16772: 21:49:30.004 - Destroying Business logic thread pool
+16772: 21:49:30.004 - Destroying I/O thread pool
+16772: 21:49:30.004 - Destroying ENet buffer allocator
+16772: 21:49:30.004 - Destroying TCP buffer allocator
+16772: 21:49:30.004 - Destroying TCP socket allocator
+16772: 21:49:30.004 - Destroying ENet inbound socket allocator
+16772: 21:49:30.004 - Destroying ENet outbound socket allocator
+16772: 21:49:30.004 - Destroying shared datagram flow control data
+16772: 21:49:30.004 - Shutdown complete...
+16772: 21:49:30.004 - Service shutting down
+16772: 21:49:30.006 - Service shut down complete
+34628: 21:49:50.893 - ---
+34628: 21:49:50.893 - Service: "Photon Socket Server" starting
+34628: 21:49:50.893 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+34628: 21:49:50.894 - Will produce at most: 10 crash dumps
+34628: 21:49:50.894 - Action: run as exe
+34628: 21:49:50.895 - Server Starting...
+34628: 21:49:50.895 -    Tick count: 177878578 (wraps in: 47.6515 days)
+34628: 21:49:50.895 - Tick count 64: 177878578
+34628: 21:49:50.895 - Photon Version: 4.0.28.2962
+34628: 21:49:50.895 - PID: 8376
+34628: 21:49:50.895 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+34628: 21:49:50.895 - Will NOT log unimportant exceptions
+34628: 21:49:50.896 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+34628: 21:49:50.897 - Shutdown timeout enabled: 30000ms
+34628: 21:49:50.897 - Starting I/O thread pool with 2 threads
+34628: 21:49:50.897 - Using Standard allocator
+34628: 21:49:50.897 - Max message size: 512000
+34628: 21:49:50.897 - Starting business logic thread pool with the following settings
+34628: 21:49:50.897 - InitialThreads: 4 threads
+34628: 21:49:50.897 - MinThreads: 4 threads
+34628: 21:49:50.897 - Thread pool is fixed size
+34628: 21:49:50.897 - Starting ENet thread pool with the following settings
+34628: 21:49:50.897 - InitialThreads: 2 threads
+34628: 21:49:50.897 - MinThreads: 2 threads
+34628: 21:49:50.897 - Thread pool is fixed size
+34628: 21:49:50.897 - OnlyDispatchTimers: False
+34628: 21:49:50.897 - S2S: flow control: Max pending writes: 50
+34628: 21:49:50.897 - S2S: flow control: Max queued buffers: 200
+34628: 21:49:50.897 - S2S: flow control: Max pending writes MUX: 500
+34628: 21:49:50.897 - S2S: flow control: Max queued buffers MUX: 2000
+34628: 21:49:50.897 - S2S: MaxInboundMessageSize: 512000
+34628: 21:49:50.897 - S2S: MaxOutboundMessageSize: 512000
+34628: 21:49:50.897 - S2S: No inactivity timeout
+34628: 21:49:50.900 - WebSocket S2S: MaxInboundMessageSize: 512000
+34628: 21:49:50.900 - WebSocket S2S: MaxOutboundMessageSize: 512000
+34628: 21:49:50.900 - WebSocket S2S: No inactivity timeout
+34628: 21:49:50.900 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+34628: 21:49:50.900 - Per peer bandwidth limit
+34628: 21:49:50.900 - Transmit Rate Limit: 256 KB/Sec
+34628: 21:49:50.900 - Limit period: 200ms
+34628: 21:49:50.900 - Limit per period: 52428 bytes
+34628: 21:49:50.900 - Max queued data for transmission per peer: 512000 bytes
+34628: 21:49:50.900 - Minimum retransmit timeout: 200
+34628: 21:49:50.900 - No Maximum retransmit timeout
+34628: 21:49:50.900 - Minimum ENet timeout: 5000ms
+34628: 21:49:50.900 - Maximum ENet timeout: 30000ms
+34628: 21:49:50.900 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+34628: 21:49:50.900 - No RTT ACK adjustment timeout
+34628: 21:49:50.900 - Outbound ENet: MaxInboundMessageSize: 512000
+34628: 21:49:50.900 - Outbound ENet: MaxOutboundMessageSize: 512000
+34628: 21:49:50.902 - GetRuntime - About to load CLR - versions available:
+34628: 21:49:50.902 - v2.0.50727
+34628: 21:49:50.902 - v4.0.30319
+34628: 21:49:50.902 - Configuration requests: "v2.0.50727"
+34628: 21:49:50.902 - About to load version: "v2.0.50727"
+34628: 21:49:50.906 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+34628: 21:49:50.906 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+34628: 21:49:50.906 - Optimising event broadcast for 20 or more peers
+34628: 21:49:50.906 - Start: About to load CLR - versions available:
+34628: 21:49:50.906 - v2.0.50727
+34628: 21:49:50.906 - v4.0.30319
+34628: 21:49:50.906 - No preference in configuration file, will load latest.
+34628: 21:49:50.906 - About to load version: "v4.0.30319"
+34628: 21:49:50.907 - Loaded version: "v4.0.30319"
+34628: 21:49:51.014 - Photon host runtime loaded
+34628: 21:49:53.030 - License is valid.
+34628: 21:49:53.030 - Licensed for 100 concurrent connections.
+34628: 21:49:53.030 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+34628: 21:49:53.030 - ENet: Per peer bandwidth limit
+34628: 21:49:53.030 - ENet: Transmit Rate Limit: 256 KB/Sec
+34628: 21:49:53.030 - ENet: Limit period: 200ms
+34628: 21:49:53.030 - ENet: Limit per period: 52428 bytes
+34628: 21:49:53.030 - ENet: Max queued data for transmission per peer: 512000 bytes
+34628: 21:49:53.030 - ENet: Minimum retransmit timeout: 200
+34628: 21:49:53.030 - No Maximum retransmit timeout
+34628: 21:49:53.030 - ENet: Minimum timeout: 5000ms
+34628: 21:49:53.030 - ENet: Maximum timeout: 30000ms
+34628: 21:49:53.030 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+34628: 21:49:53.030 - No RTT ACK adjustment timeout
+34628: 21:49:53.030 - About to load application: SangoTest from FantasyOfSango
+34628: 21:49:53.030 - Auto restart is enabled for application, existing connections will be terminated during restart
+34628: 21:49:53.030 - Application will restart 1000ms after the last change detected
+34628: 21:49:53.030 - Application will restart if files matching the following are changed: "dll;config"
+34628: 21:49:53.030 - Application will NOT restart if files matching the following are changed: "log4net.config"
+34628: 21:49:53.211 - Taking reference on default app domain
+34628: 21:49:53.377 - Application: "SangoTest" started in app domain: 2
+34628: 21:49:53.377 - About to load application: CounterPublisher from CounterPublisher
+34628: 21:49:53.377 - Auto restart is enabled for application, existing connections will be terminated during restart
+34628: 21:49:53.377 - Application will restart 1000ms after the last change detected
+34628: 21:49:53.377 - Application will restart if files matching the following are changed: "dll;config"
+34628: 21:49:53.377 - Application will NOT restart if files matching the following are changed: "log4net.config"
+34628: 21:49:53.539 - Taking reference on default app domain
+34628: 21:49:53.710 - Application: "CounterPublisher" started in app domain: 3
+34628: 21:49:53.710 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+34628: 21:49:53.710 - TCP inactivity timeout: 10000ms
+34628: 21:49:53.710 - TCP disconnect timeout: 120000ms
+34628: 21:49:53.710 - MaxInboundMessageSize: 512000
+34628: 21:49:53.710 - MaxOutboundMessageSize: 512000
+34628: 21:49:53.710 - Forcing all applications ids to: "SangoTest"
+34628: 21:49:53.710 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+34628: 21:49:53.710 - Forcing all applications ids to: "SangoTest"
+34628: 21:49:53.710 - MaxInboundMessageSize: 512000
+34628: 21:49:53.710 - MaxOutboundMessageSize: 512000
+34628: 21:49:53.710 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+34628: 21:49:53.711 - Adding UDP listener on: 192.168.0.111: 5055 with a listen backlog of: 500
+34628: 21:49:53.711 - Adding UDP listener on: 172.21.128.1: 5055 with a listen backlog of: 500
+34628: 21:49:53.711 - Adding UDP listener on: 172.27.64.1: 5055 with a listen backlog of: 500
+34628: 21:49:53.711 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+34628: 21:49:53.711 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+34628: 21:49:53.711 - Nagle disabled
+34628: 21:49:53.711 - TCP inactivity timeout: 10000ms
+34628: 21:49:53.711 - MaxInboundMessageSize: 512000
+34628: 21:49:53.711 - MaxOutboundMessageSize: 512000
+34628: 21:49:53.711 - Forcing all applications ids to: "SangoTest"
+34628: 21:49:53.711 - Will accept ANY sub-protocols from the client
+34628: 21:49:53.711 - No automatic WebSocket ping
+34628: 21:49:53.711 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+34628: 21:49:53.711 - TCP inactivity timeout: 10000ms
+34628: 21:49:53.711 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy-silverlight.xml"
+34628: 21:49:53.711 - TCP inactivity timeout: 10000ms
+34628: 21:49:53.733 - Service is running...
+3736: 23:27:35.277 - Restarting application: "SangoTest" due to file changes
+3736: 23:27:35.277 - Application: "SangoTest" restart request (abort existing connections)
+3736: 23:27:35.796 - Taking reference on default app domain
+3736: 23:27:36.004 - Application: "SangoTest" started in app domain: 4
+3736: 23:27:36.078 - RequestApplicationStop: 2
+3736: 23:27:36.080 - Application: "SangoTest" stopped in app domain: 2 (abort existing connections)
+3736: 23:27:36.080 - Application: "SangoTest" restart complete.
+36256: 23:27:36.080 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+14856: 23:27:36.082 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='2'
+36256: 23:27:36.082 - CManagedHost::OnDomainUnload() - 2
+3736: 23:29:01.005 - Restarting application: "SangoTest" due to file changes
+3736: 23:29:01.005 - Application: "SangoTest" restart request (abort existing connections)
+3736: 23:29:01.008 - Failed to restart application: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "SangoTest" - Can't find FantasyOfSango.dll in D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin or D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango\bin
+3736: 23:29:38.648 - Restarting application: "SangoTest" due to file changes
+3736: 23:29:38.648 - Application: "SangoTest" restart request (abort existing connections)
+3736: 23:29:38.825 - Taking reference on default app domain
+3736: 23:29:40.369 - Application: "SangoTest" started in app domain: 5
+3736: 23:29:40.440 - RequestApplicationStop: 4
+3736: 23:29:40.449 - Application: "SangoTest" stopped in app domain: 4 (abort existing connections)
+36256: 23:29:40.449 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+3736: 23:29:40.449 - Application: "SangoTest" restart complete.
+14856: 23:29:40.451 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='4'
+36256: 23:29:40.451 - CManagedHost::OnDomainUnload() - 4
+3736: 23:29:50.994 - Restarting application: "SangoTest" due to file changes
+3736: 23:29:50.994 - Application: "SangoTest" restart request (abort existing connections)
+3736: 23:29:51.179 - Taking reference on default app domain
+3736: 23:29:51.336 - Application: "SangoTest" started in app domain: 6
+3736: 23:29:51.415 - RequestApplicationStop: 5
+3736: 23:29:51.424 - Application: "SangoTest" stopped in app domain: 5 (abort existing connections)
+36256: 23:29:51.424 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+3736: 23:29:51.424 - Application: "SangoTest" restart complete.
+14856: 23:29:51.427 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='5'
+36256: 23:29:51.427 - CManagedHost::OnDomainUnload() - 5
+3736: 23:30:20.434 - Restarting application: "SangoTest" due to file changes
+3736: 23:30:20.434 - Application: "SangoTest" restart request (abort existing connections)
+3736: 23:30:20.617 - Taking reference on default app domain
+3736: 23:30:20.863 - Application: "SangoTest" started in app domain: 7
+3736: 23:30:20.940 - RequestApplicationStop: 6
+3736: 23:30:20.950 - Application: "SangoTest" stopped in app domain: 6 (abort existing connections)
+36256: 23:30:20.950 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+3736: 23:30:20.950 - Application: "SangoTest" restart complete.
+14856: 23:30:20.952 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='6'
+36256: 23:30:20.952 - CManagedHost::OnDomainUnload() - 6

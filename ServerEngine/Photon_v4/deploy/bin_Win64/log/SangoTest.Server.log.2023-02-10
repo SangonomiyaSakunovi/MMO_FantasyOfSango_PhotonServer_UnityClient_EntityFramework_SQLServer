@@ -1,0 +1,83 @@
+2023-02-10 15:55:40,604 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-10 15:55:40,613 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-10 15:55:40,614 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-10 15:56:34,111 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 15:57:48,051 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 15:57:51,746 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 15:59:09,962 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 15:59:14,128 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 16:15:01,516 [22] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 16:15:01,516 [22] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 16:15:01,516 [22] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 17:12:04,555 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 17:12:15,813 [22] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 17:12:15,844 [16] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 17:12:15,844 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 17:12:17,214 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 17:12:17,256 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 17:12:17,256 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 17:12:31,984 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-10 17:12:31,994 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-10 17:12:31,994 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-10 17:12:40,052 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 17:12:51,596 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 17:13:05,209 [14] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 17:13:16,489 [19] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 17:14:06,850 [16] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 17:14:11,541 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 17:14:21,494 [20] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 17:27:31,242 [18] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 17:27:43,845 [17] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 17:27:52,752 [17] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 17:28:01,237 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 17:28:09,949 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 17:32:34,589 [21] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 17:32:39,154 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 20:26:47,672 [4] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 20:26:47,673 [4] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 20:26:47,673 [4] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 20:32:09,650 [4] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 20:32:09,658 [4] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 20:32:09,659 [4] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 20:32:24,955 [4] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 20:32:24,964 [4] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 20:32:24,964 [4] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 20:32:30,897 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 20:32:30,912 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 20:32:30,912 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 20:32:51,267 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-10 20:32:51,278 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-10 20:32:51,278 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-10 20:33:09,854 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 20:33:14,771 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 20:33:27,010 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 20:33:36,840 [22] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 20:33:41,566 [22] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 21:46:52,846 [8] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 21:46:52,847 [8] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 21:46:52,847 [8] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 21:49:22,506 [23] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 21:49:29,969 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 21:49:29,996 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 21:49:29,996 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 21:49:56,940 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-10 21:49:56,952 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-10 21:49:56,953 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-10 21:49:59,895 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-10 21:50:04,706 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 21:50:14,494 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 21:50:23,654 [20] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 21:50:26,541 [12] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-10 21:50:29,479 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-10 23:27:36,079 [23] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 23:27:36,080 [23] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 23:27:36,080 [23] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 23:29:40,441 [23] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 23:29:40,449 [23] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 23:29:40,449 [23] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 23:29:51,416 [23] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 23:29:51,424 [23] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 23:29:51,424 [23] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-10 23:30:20,941 [23] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-10 23:30:20,950 [23] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-10 23:30:20,950 [23] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest

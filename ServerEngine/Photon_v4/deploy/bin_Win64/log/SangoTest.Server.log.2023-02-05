@@ -1,0 +1,92 @@
+2023-02-05 15:41:55,383 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-05 15:41:55,393 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-05 15:42:53,922 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-05 15:42:55,729 [13] INFO  FantasyOfSango.SangoServer - Recieve a Request from Client, the OperationCode is 1
+2023-02-05 15:42:55,729 [13] INFO  FantasyOfSango.SangoServer - The ClientIntRequest is 100
+2023-02-05 15:42:55,730 [13] INFO  FantasyOfSango.SangoServer - The ClientStringRequest is That`s the TestRequest by Client
+2023-02-05 15:45:36,778 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-05 15:45:38,455 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:50312, Data: F3-02-00-00-02-01-69-00-00-00-64-02-73-00-20-54-68-61-74-60-73-20-74-68-65-20-54-65-73-74-52-65-71-75-65-73-74-20-62-79-20-43-6C-69-65-6E-74,
+Exception:System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at Microsoft.EntityFrameworkCore.DbContext..ctor(DbContextOptions options)
+   at PlayerMigration.PlayerContext..ctor()
+   at PlayerScript.AddScript.AddUserInfo(String playerShowName, String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\AddScript.cs:line 18
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 59
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2023-02-05 15:45:40,549 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:50312, Data: F3-02-00-00-02-01-69-00-00-00-64-02-73-00-20-54-68-61-74-60-73-20-74-68-65-20-54-65-73-74-52-65-71-75-65-73-74-20-62-79-20-43-6C-69-65-6E-74,
+Exception:System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at Microsoft.EntityFrameworkCore.DbContext..ctor(DbContextOptions options)
+   at PlayerMigration.PlayerContext..ctor()
+   at PlayerScript.AddScript.AddUserInfo(String playerShowName, String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\AddScript.cs:line 18
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 59
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2023-02-05 15:48:48,836 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-05 15:48:48,896 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-05 15:48:48,896 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-05 15:51:38,149 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-05 15:51:38,159 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-05 15:51:54,786 [8] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-05 15:51:57,098 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:50326, Data: F3-02-00-00-02-01-69-00-00-00-64-02-73-00-20-54-68-61-74-60-73-20-74-68-65-20-54-65-73-74-52-65-71-75-65-73-74-20-62-79-20-43-6C-69-65-6E-74,
+Exception:System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at Microsoft.EntityFrameworkCore.DbContext..ctor(DbContextOptions options)
+   at PlayerMigration.PlayerContext..ctor()
+   at PlayerScript.AddScript.AddUserInfo(String playerShowName, String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\AddScript.cs:line 18
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 59
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2023-02-05 15:53:03,697 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:50326, Data: F3-02-00-00-02-01-69-00-00-00-64-02-73-00-20-54-68-61-74-60-73-20-74-68-65-20-54-65-73-74-52-65-71-75-65-73-74-20-62-79-20-43-6C-69-65-6E-74,
+Exception:System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at Microsoft.EntityFrameworkCore.DbContext..ctor(DbContextOptions options)
+   at PlayerMigration.PlayerContext..ctor()
+   at PlayerScript.AddScript.AddUserInfo(String playerShowName, String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\AddScript.cs:line 18
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 59
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2023-02-05 16:22:32,444 [16] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-05 16:22:32,579 [14] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-05 16:22:32,579 [14] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-05 16:22:41,370 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-05 16:22:41,384 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-05 16:22:41,384 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-05 16:23:01,452 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-05 16:23:01,461 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-05 16:23:03,898 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-05 16:23:05,858 [8] INFO  FantasyOfSango.SangoServer - Recieve a Request from Client, the OperationCode is 1
+2023-02-05 16:23:05,858 [8] INFO  FantasyOfSango.SangoServer - The ClientIntRequest is 100
+2023-02-05 16:23:05,859 [8] INFO  FantasyOfSango.SangoServer - The ClientStringRequest is That`s the Request by Client
+2023-02-05 17:00:14,411 [22] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-05 17:00:19,748 [18] INFO  FantasyOfSango.SangoServer - Recieve a Request from Client, the OperationCode is 1
+2023-02-05 17:00:19,748 [18] INFO  FantasyOfSango.SangoServer - The ClientIntRequest is 100
+2023-02-05 17:00:19,748 [18] INFO  FantasyOfSango.SangoServer - The ClientStringRequest is That`s the Request by Client
+2023-02-05 17:50:39,136 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-05 17:50:39,143 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-05 17:50:39,143 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest

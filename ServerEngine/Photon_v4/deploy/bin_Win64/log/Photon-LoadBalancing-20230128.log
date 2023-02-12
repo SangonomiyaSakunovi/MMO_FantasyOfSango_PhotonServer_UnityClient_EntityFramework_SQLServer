@@ -1,0 +1,256 @@
+24396: 18:07:42.753 - ---
+24396: 18:07:42.753 - Service: "Photon Socket Server" starting
+24396: 18:07:42.753 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+24396: 18:07:42.755 - Will produce at most: 10 crash dumps
+24396: 18:07:42.755 - Action: run as exe
+24396: 18:07:42.755 - Server Starting...
+24396: 18:07:42.755 -    Tick count: 264837375 (wraps in: 46.645 days)
+24396: 18:07:42.755 - Tick count 64: 264837375
+24396: 18:07:42.755 - Photon Version: 4.0.28.2962
+24396: 18:07:42.755 - PID: 14700
+24396: 18:07:42.755 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+24396: 18:07:42.756 - Will NOT log unimportant exceptions
+24396: 18:07:42.757 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+24396: 18:07:42.757 - Shutdown timeout enabled: 30000ms
+24396: 18:07:42.758 - Starting I/O thread pool with 2 threads
+24396: 18:07:42.758 - Using Standard allocator
+24396: 18:07:42.758 - Max message size: 512000
+24396: 18:07:42.758 - Starting business logic thread pool with the following settings
+24396: 18:07:42.758 - InitialThreads: 4 threads
+24396: 18:07:42.758 - MinThreads: 4 threads
+24396: 18:07:42.758 - Thread pool is fixed size
+24396: 18:07:42.758 - Starting ENet thread pool with the following settings
+24396: 18:07:42.758 - InitialThreads: 2 threads
+24396: 18:07:42.758 - MinThreads: 2 threads
+24396: 18:07:42.758 - Thread pool is fixed size
+24396: 18:07:42.758 - OnlyDispatchTimers: False
+24396: 18:07:42.758 - S2S: flow control: Max pending writes: 50
+24396: 18:07:42.758 - S2S: flow control: Max queued buffers: 200
+24396: 18:07:42.758 - S2S: flow control: Max pending writes MUX: 500
+24396: 18:07:42.758 - S2S: flow control: Max queued buffers MUX: 2000
+24396: 18:07:42.758 - S2S: MaxInboundMessageSize: 512000
+24396: 18:07:42.758 - S2S: MaxOutboundMessageSize: 512000
+24396: 18:07:42.758 - S2S: No inactivity timeout
+24396: 18:07:42.761 - WebSocket S2S: MaxInboundMessageSize: 512000
+24396: 18:07:42.761 - WebSocket S2S: MaxOutboundMessageSize: 512000
+24396: 18:07:42.761 - WebSocket S2S: No inactivity timeout
+24396: 18:07:42.761 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+24396: 18:07:42.761 - Per peer bandwidth limit
+24396: 18:07:42.761 - Transmit Rate Limit: 256 KB/Sec
+24396: 18:07:42.761 - Limit period: 200ms
+24396: 18:07:42.761 - Limit per period: 52428 bytes
+24396: 18:07:42.761 - Max queued data for transmission per peer: 512000 bytes
+24396: 18:07:42.761 - Minimum retransmit timeout: 200
+24396: 18:07:42.761 - No Maximum retransmit timeout
+24396: 18:07:42.761 - Minimum ENet timeout: 5000ms
+24396: 18:07:42.761 - Maximum ENet timeout: 30000ms
+24396: 18:07:42.761 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+24396: 18:07:42.761 - No RTT ACK adjustment timeout
+24396: 18:07:42.761 - Outbound ENet: MaxInboundMessageSize: 512000
+24396: 18:07:42.761 - Outbound ENet: MaxOutboundMessageSize: 512000
+24396: 18:07:42.763 - GetRuntime - About to load CLR - versions available:
+24396: 18:07:42.763 - v2.0.50727
+24396: 18:07:42.763 - v4.0.30319
+24396: 18:07:42.763 - Configuration requests: "v2.0.50727"
+24396: 18:07:42.763 - About to load version: "v2.0.50727"
+24396: 18:07:42.766 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+24396: 18:07:42.766 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+24396: 18:07:42.766 - Optimising event broadcast for 20 or more peers
+24396: 18:07:42.767 - Start: About to load CLR - versions available:
+24396: 18:07:42.767 - v2.0.50727
+24396: 18:07:42.767 - v4.0.30319
+24396: 18:07:42.767 - No preference in configuration file, will load latest.
+24396: 18:07:42.767 - About to load version: "v4.0.30319"
+24396: 18:07:42.768 - Loaded version: "v4.0.30319"
+24396: 18:07:42.877 - Photon host runtime loaded
+24396: 18:07:44.780 - License is valid.
+24396: 18:07:44.780 - Licensed for 100 concurrent connections.
+24396: 18:07:44.780 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+24396: 18:07:44.780 - ENet: Per peer bandwidth limit
+24396: 18:07:44.780 - ENet: Transmit Rate Limit: 256 KB/Sec
+24396: 18:07:44.780 - ENet: Limit period: 200ms
+24396: 18:07:44.780 - ENet: Limit per period: 52428 bytes
+24396: 18:07:44.780 - ENet: Max queued data for transmission per peer: 512000 bytes
+24396: 18:07:44.780 - ENet: Minimum retransmit timeout: 200
+24396: 18:07:44.780 - No Maximum retransmit timeout
+24396: 18:07:44.780 - ENet: Minimum timeout: 5000ms
+24396: 18:07:44.780 - ENet: Maximum timeout: 30000ms
+24396: 18:07:44.780 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+24396: 18:07:44.780 - No RTT ACK adjustment timeout
+24396: 18:07:44.780 - About to load application: Master from Photon.LoadBalancing
+24396: 18:07:44.780 - Auto restart is enabled for application, existing connections will be terminated during restart
+24396: 18:07:44.780 - Application will restart 1000ms after the last change detected
+24396: 18:07:44.780 - Application will restart if files matching the following are changed: "dll;config"
+24396: 18:07:44.780 - Application will NOT restart if files matching the following are changed: "log4net.config"
+24396: 18:07:45.023 - Taking reference on default app domain
+24396: 18:07:45.245 - Application: "Master" started in app domain: 2
+24396: 18:07:45.245 - About to load application: Game from Photon.LoadBalancing
+24396: 18:07:45.245 - Auto restart is enabled for application, existing connections will be terminated during restart
+24396: 18:07:45.245 - Application will restart 1000ms after the last change detected
+24396: 18:07:45.245 - Application will restart if files matching the following are changed: "dll;config"
+24396: 18:07:45.245 - Application will NOT restart if files matching the following are changed: "log4net.config"
+24396: 18:07:45.411 - Taking reference on default app domain
+24396: 18:07:45.767 - Application: "Game" started in app domain: 3
+24396: 18:07:45.767 - About to load application: CounterPublisher from CounterPublisher
+24396: 18:07:45.767 - Auto restart is enabled for application, existing connections will be terminated during restart
+24396: 18:07:45.767 - Application will restart 1000ms after the last change detected
+24396: 18:07:45.767 - Application will restart if files matching the following are changed: "dll;config"
+24396: 18:07:45.767 - Application will NOT restart if files matching the following are changed: "log4net.config"
+24396: 18:07:45.930 - Taking reference on default app domain
+24396: 18:07:46.068 - Application: "CounterPublisher" started in app domain: 4
+24396: 18:07:46.068 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+24396: 18:07:46.068 - TCP inactivity timeout: 10000ms
+24396: 18:07:46.068 - TCP disconnect timeout: 120000ms
+24396: 18:07:46.068 - MaxInboundMessageSize: 512000
+24396: 18:07:46.068 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.068 - Forcing all applications ids to: "Master"
+24396: 18:07:46.068 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+24396: 18:07:46.068 - Adding TCP listener on: 0.0.0.0: 4531 with a listen backlog of: 150
+24396: 18:07:46.068 - TCP inactivity timeout: 10000ms
+24396: 18:07:46.068 - TCP disconnect timeout: 120000ms
+24396: 18:07:46.068 - MaxInboundMessageSize: 512000
+24396: 18:07:46.068 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.068 - Forcing all applications ids to: "Game"
+24396: 18:07:46.068 - Serving policy file requests from: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+24396: 18:07:46.068 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+24396: 18:07:46.068 - TCP inactivity timeout: 5000ms
+24396: 18:07:46.068 - TCP disconnect timeout: 120000ms
+24396: 18:07:46.068 - MaxInboundMessageSize: 512000
+24396: 18:07:46.068 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.068 - Forcing all applications ids to: "Master"
+24396: 18:07:46.068 - MaxInboundMessageSize: 512000
+24396: 18:07:46.068 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.068 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+24396: 18:07:46.069 - Adding UDP listener on: 192.168.0.110: 5055 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 192.168.0.112: 5055 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 172.27.176.1: 5055 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 172.19.144.1: 5055 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+24396: 18:07:46.069 - Forcing all applications ids to: "Game"
+24396: 18:07:46.069 - MaxInboundMessageSize: 512000
+24396: 18:07:46.069 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.069 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+24396: 18:07:46.069 - Adding UDP listener on: 192.168.0.110: 5056 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 192.168.0.112: 5056 with a listen backlog of: 500
+24396: 18:07:46.069 - Adding UDP listener on: 172.27.176.1: 5056 with a listen backlog of: 500
+24396: 18:07:46.070 - Adding UDP listener on: 172.19.144.1: 5056 with a listen backlog of: 500
+24396: 18:07:46.070 - Adding UDP listener on: 127.0.0.1: 5056 with a listen backlog of: 500
+24396: 18:07:46.070 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+24396: 18:07:46.070 - Nagle disabled
+24396: 18:07:46.070 - TCP inactivity timeout: 10000ms
+24396: 18:07:46.070 - MaxInboundMessageSize: 512000
+24396: 18:07:46.070 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.070 - Forcing all applications ids to: "Master"
+24396: 18:07:46.070 - Will accept ANY sub-protocols from the client
+24396: 18:07:46.070 - No automatic WebSocket ping
+24396: 18:07:46.070 - Adding WebSocket TCP listener on: 0.0.0.0: 9091 with a listen backlog of: 150
+24396: 18:07:46.070 - Nagle disabled
+24396: 18:07:46.070 - TCP inactivity timeout: 10000ms
+24396: 18:07:46.070 - MaxInboundMessageSize: 512000
+24396: 18:07:46.070 - MaxOutboundMessageSize: 512000
+24396: 18:07:46.070 - Forcing all applications ids to: "Game"
+24396: 18:07:46.070 - Will accept ANY sub-protocols from the client
+24396: 18:07:46.070 - No automatic WebSocket ping
+24396: 18:07:46.070 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy.xml"
+24396: 18:07:46.070 - TCP inactivity timeout: 1000ms
+24396: 18:07:46.070 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Policy\assets\socket-policy-silverlight.xml"
+24396: 18:07:46.070 - TCP inactivity timeout: 1000ms
+24396: 18:07:46.117 - Service is running...
+24396: 18:08:41.972 - Service is stopped...
+24396: 18:08:41.972 - Server shutting down...
+24396: 18:08:41.972 - Shutdown monitoring enabled, 30000ms before process abort
+24396: 18:08:41.972 - Notifying CLR applications of shutdown...
+24396: 18:08:41.972 - RequestApplicationStop: 4
+24396: 18:08:41.973 - RequestApplicationStop: 3
+24396: 18:08:41.976 - RequestApplicationStop: 2
+24396: 18:08:41.979 - RequestStop: defalt app domain
+24396: 18:08:41.980 - Shutting down WebSocket Outbound Connection Manager...
+24396: 18:08:41.980 - Shutting down TCP Outbound Connection Manager...
+24396: 18:08:41.981 - Shutting down ENet Outbound Connection Manager...
+24396: 18:08:41.981 - Disconnecting all outbound peers...
+24396: 18:08:41.981 - Shutting down ENet host...
+24396: 18:08:41.981 - Disconnecting all peers...
+24396: 18:08:41.981 - Shutting down socket servers...
+24396: 18:08:41.981 - Shutting down ENet thread pool...
+24396: 18:08:41.981 - Shutting down TCP inactivity timers...
+24396: 18:08:41.981 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+24396: 18:08:41.981 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+24396: 18:08:41.981 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+24396: 18:08:41.981 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+24396: 18:08:41.981 - WaitingForShutdownToComplete: TCP:0.0.0.0:4520
+24396: 18:08:41.983 - OnShutdownCompleted: TCP:0.0.0.0:4520
+24396: 18:08:41.983 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+24396: 18:08:41.983 - OnShutdownCompleted: TCP:0.0.0.0:4530
+24396: 18:08:41.983 - WaitingForShutdownToComplete: TCP:0.0.0.0:4531
+24396: 18:08:41.983 - OnShutdownCompleted: TCP:0.0.0.0:4531
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:127.0.0.1:5055
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:127.0.0.1:5056
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:127.0.0.1:5056
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:172.19.144.1:5055
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:172.19.144.1:5055
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:172.19.144.1:5056
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:172.19.144.1:5056
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:172.27.176.1:5055
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:172.27.176.1:5055
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:172.27.176.1:5056
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:172.27.176.1:5056
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:192.168.0.110:5055
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:192.168.0.110:5055
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:192.168.0.110:5056
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:192.168.0.110:5056
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:192.168.0.112:5055
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:192.168.0.112:5055
+24396: 18:08:41.983 - WaitingForShutdownToComplete: UDP:192.168.0.112:5056
+24396: 18:08:41.983 - OnShutdownCompleted: UDP:192.168.0.112:5056
+24396: 18:08:41.983 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+24396: 18:08:41.983 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+24396: 18:08:41.983 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9091
+24396: 18:08:41.983 - OnShutdownCompleted: WebSocket:0.0.0.0:9091
+24396: 18:08:41.983 - Shutting down CLR applications...
+29908: 18:08:41.984 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+24396: 18:08:41.988 - Shutting down business logic thread pool...
+24396: 18:08:41.988 - Shutting down I/O thread pool...
+24396: 18:08:41.988 - Destroying servers
+24396: 18:08:41.989 - Destroying WebSocket Outbound Connection Manager
+24396: 18:08:41.989 - Destroying TCP Outbound Connection Manager
+24396: 18:08:41.989 - Destroying TCP inactivity timer
+24396: 18:08:41.989 - Destroying ENet timer wheel
+24396: 18:08:41.989 - Destroying ENet host
+24396: 18:08:41.989 - Destroying ENet outbound host
+24396: 18:08:41.989 - Destroying HTTP inactivity timer
+24396: 18:08:41.989 - Destroying HTTP host
+24396: 18:08:41.989 - Destroying HTTP Chunk host
+24396: 18:08:41.989 - Flushing ENET buffer allocator...
+24396: 18:08:41.992 - Flushing TCP buffer handle allocator...
+24396: 18:08:41.992 - Flushing stream socket allocator...
+24396: 18:08:41.992 - Flushing inbound datagram socket allocator...
+24396: 18:08:41.993 - Flushing outbound datagram socket allocator...
+24396: 18:08:41.993 - Destroying CLR dispatcher
+24396: 18:08:41.993 - Destroying CLR applications
+24396: 18:08:41.994 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+36396: 18:08:41.994 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='4'
+29908: 18:08:41.994 - CManagedHost::OnDomainUnload() - 4
+29908: 18:08:41.999 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+36396: 18:08:42.005 - Unloading Domain: ApplicationName = 'Master', DomainId='2'
+29908: 18:08:42.005 - CManagedHost::OnDomainUnload() - 2
+29908: 18:08:42.009 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+36396: 18:08:42.015 - Unloading Domain: ApplicationName = 'Game', DomainId='3'
+29908: 18:08:42.015 - CManagedHost::OnDomainUnload() - 3
+24396: 18:08:42.016 - ~CCLRApplicationCollection() - Done. All objects released
+24396: 18:08:42.016 - ~CManagedHost() - Release default app domain
+24396: 18:08:42.017 - CManagedHost::OnDomainUnload() - 1
+24396: 18:08:42.017 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+24396: 18:08:42.017 - ~CManagedHost
+24396: 18:08:42.017 - Destroying ENet thread pool
+24396: 18:08:42.017 - Destroying Business logic thread pool
+24396: 18:08:42.017 - Destroying I/O thread pool
+24396: 18:08:42.017 - Destroying ENet buffer allocator
+24396: 18:08:42.017 - Destroying TCP buffer allocator
+24396: 18:08:42.017 - Destroying TCP socket allocator
+24396: 18:08:42.017 - Destroying ENet inbound socket allocator
+24396: 18:08:42.017 - Destroying ENet outbound socket allocator
+24396: 18:08:42.017 - Destroying shared datagram flow control data
+24396: 18:08:42.017 - Shutdown complete...
+24396: 18:08:42.017 - Service shutting down
+24396: 18:08:42.020 - Service shut down complete

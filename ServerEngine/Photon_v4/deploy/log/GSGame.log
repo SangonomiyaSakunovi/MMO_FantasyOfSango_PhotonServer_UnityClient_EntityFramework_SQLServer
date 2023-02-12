@@ -1,0 +1,64 @@
+﻿2023-01-28 17:07:03,768 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=59b883f5-3129-4ee5-826f-7a8ea4da0ccf
+2023-01-28 17:07:04,356 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2023-01-28 17:07:04,356 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2023-01-28 17:07:04,359 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 17:07:06,004 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2023-01-28 17:07:06,005 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2023-01-28 17:07:06,005 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2023-01-28 17:07:06,005 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2023-01-28 17:07:06,006 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2023-01-28 17:07:06,006 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2023-01-28 17:07:06,006 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2023-01-28 17:07:06,006 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2023-01-28 17:07:06,006 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2023-01-28 17:07:06,007 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2023-01-28 17:07:06,007 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2023-01-28 17:07:06,007 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2023-01-28 17:07:06,007 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2023-01-28 17:07:06,007 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2023-01-28 17:07:06,014 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2023-01-28 17:07:06,020 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2023-01-28 17:07:06,022 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2023-01-28 17:07:06,022 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2023-01-28 17:07:06,057 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=59b883f5-3129-4ee5-826f-7a8ea4da0ccf
+2023-01-28 17:07:06,072 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2023-01-28 17:07:06,076 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-01-28 17:07:07,009 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=59b883f5-3129-4ee5-826f-7a8ea4da0ccf
+2023-01-28 17:07:07,010 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2023-01-28 17:07:07,018 [15] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=59b883f5-3129-4ee5-826f-7a8ea4da0ccf
+2023-01-28 17:07:07,019 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=59b883f5-3129-4ee5-826f-7a8ea4da0ccf
+2023-01-28 17:07:07,020 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2023-01-28 18:07:48,500 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:07:48,964 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2023-01-28 18:07:48,964 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2023-01-28 18:07:48,968 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 18:07:50,235 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2023-01-28 18:07:50,236 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2023-01-28 18:07:50,236 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2023-01-28 18:07:50,236 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2023-01-28 18:07:50,236 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2023-01-28 18:07:50,237 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2023-01-28 18:07:50,237 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2023-01-28 18:07:50,237 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2023-01-28 18:07:50,238 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2023-01-28 18:07:50,238 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2023-01-28 18:07:50,238 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2023-01-28 18:07:50,238 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2023-01-28 18:07:50,238 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2023-01-28 18:07:50,239 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2023-01-28 18:07:50,246 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Workload.config. Using default settings... (Could not find file 'D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Workload.config'.)
+2023-01-28 18:07:50,252 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\ServerState.txt
+2023-01-28 18:07:50,254 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2023-01-28 18:07:50,255 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2023-01-28 18:07:50,289 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:07:50,304 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2023-01-28 18:07:50,308 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-01-28 18:07:51,169 [11] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2023-01-28 18:07:51,170 [11] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2023-01-28 18:07:51,173 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 127.0.0.1, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID cf03ea41-76b3-4084-969d-57c72eca10be, Hostname localhost, IPv6Address 
+2023-01-28 18:07:51,220 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:08:41,975 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:08:41,976 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2023-01-28 18:08:41,985 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:08:41,986 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=cf03ea41-76b3-4084-969d-57c72eca10be
+2023-01-28 18:08:41,987 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game

@@ -1,0 +1,37 @@
+﻿2023-01-28 17:07:06,206 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 17:07:06,753 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2023-01-28 17:07:06,753 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2023-01-28 17:07:06,754 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2023-01-28 17:07:06,755 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2023-01-28 17:07:06,761 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2023-01-28 17:07:06,841 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 17:07:06,946 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2023-01-28 17:07:06,975 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2023-01-28 17:07:06,975 [1] WARN  Photon.LoadBalancing.Common.NodesReader - D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2023-01-28 17:07:06,975 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2023-01-28 17:07:06,976 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2023-01-28 17:07:06,976 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=D:\FantasyOfSango\Server\TestServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2023-01-28 17:07:06,995 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-01-28 17:07:07,013 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2023-01-28 17:07:07,016 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:0 established (id=2)
+2023-01-28 17:07:07,023 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2023-01-28 18:07:50,433 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 18:07:50,881 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2023-01-28 18:07:50,882 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2023-01-28 18:07:50,882 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2023-01-28 18:07:50,883 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2023-01-28 18:07:50,888 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\LoadBalancer.config. Using default settings... (Could not find file 'D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\LoadBalancer.config'.)
+2023-01-28 18:07:50,967 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2023-01-28 18:07:51,074 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2023-01-28 18:07:51,101 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2023-01-28 18:07:51,102 [1] WARN  Photon.LoadBalancing.Common.NodesReader - D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2023-01-28 18:07:51,102 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\Nodes.txt
+2023-01-28 18:07:51,102 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2023-01-28 18:07:51,102 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2023-01-28 18:07:51,119 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-01-28 18:07:51,135 [14] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:54119 established (id=2)
+2023-01-28 18:07:51,204 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2023-01-28 18:07:51,204 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2023-01-28 18:08:41,979 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2023-01-28 18:08:41,983 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=cf03ea41-76b3-4084-969d-57c72eca10be, reason=ManagedDisconnect)
+2023-01-28 18:08:41,988 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master

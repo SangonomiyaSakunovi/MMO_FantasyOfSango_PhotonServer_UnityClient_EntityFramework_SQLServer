@@ -1,0 +1,18 @@
+33952: 15:48:48.835 - ---
+33952: 15:48:48.835 - Service: "Photon Socket Server" starting
+33952: 15:48:48.835 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+33952: 15:48:48.836 - Will produce at most: 10 crash dumps
+33952: 15:48:48.836 - Service shutting down
+33952: 15:48:48.840 - Service shut down complete
+8876: 16:22:41.369 - ---
+8876: 16:22:41.369 - Service: "Photon Socket Server" starting
+8876: 16:22:41.369 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+8876: 16:22:41.371 - Will produce at most: 10 crash dumps
+8876: 16:22:41.371 - Service shutting down
+8876: 16:22:41.372 - Service shut down complete
+22844: 17:50:39.115 - ---
+22844: 17:50:39.115 - Service: "Photon Socket Server" starting
+22844: 17:50:39.115 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+22844: 17:50:39.118 - Will produce at most: 10 crash dumps
+22844: 17:50:39.119 - Service shutting down
+22844: 17:50:39.120 - Service shut down complete

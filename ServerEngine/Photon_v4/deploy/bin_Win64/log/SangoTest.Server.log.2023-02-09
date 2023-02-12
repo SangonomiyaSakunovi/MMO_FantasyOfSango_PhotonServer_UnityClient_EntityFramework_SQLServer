@@ -1,0 +1,317 @@
+2023-02-09 19:37:20,494 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-09 19:37:20,504 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-09 19:37:33,218 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 19:37:42,051 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:37:47,240 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:37:47,494 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:37:47,681 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:16,603 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:16,849 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,062 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,249 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,419 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,592 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,751 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:17,894 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:18,036 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:18,180 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:18,335 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:18,914 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:19,086 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:38:19,227 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:55229, Data: F3-02-00-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handler.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\DefaultHandler.cs:line 23
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:44,466 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 19:40:50,013 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,029 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,031 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,031 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,033 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,034 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,035 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,036 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-00-01-73-00-00,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,570 [19] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:50,834 [8] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,020 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,192 [21] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,357 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,493 [19] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,645 [17] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,771 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:51,928 [8] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:52,384 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:52,558 [21] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:40:52,725 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56661, Data: F3-02-01-00-02-00-73-00-03-31-32-33-01-73-00-03-31-32-33,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:43:53,938 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 19:44:00,340 [18] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:2,ip:127.0.0.1:63946, Data: F3-02-01-00-02-00-73-00-01-30-01-73-00-01-30,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:44:01,007 [17] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:2,ip:127.0.0.1:63946, Data: F3-02-01-00-02-00-73-00-01-30-01-73-00-01-30,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:44:01,187 [19] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:2,ip:127.0.0.1:63946, Data: F3-02-01-00-02-00-73-00-01-30-01-73-00-01-30,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:44:01,353 [20] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:2,ip:127.0.0.1:63946, Data: F3-02-01-00-02-00-73-00-01-30-01-73-00-01-30,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 19:50:07,032 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-09 19:50:07,037 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-09 19:50:07,037 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-09 19:50:33,668 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-09 19:50:33,677 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-09 19:50:33,677 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-09 19:53:30,897 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-09 19:53:30,913 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-09 19:53:30,913 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-09 19:53:48,331 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-09 19:53:48,341 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-09 19:53:48,342 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-09 19:54:02,000 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 19:54:06,973 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-09 19:54:08,843 [15] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:50115, Data: F3-02-01-00-02-00-73-00-01-31-01-73-00-01-31,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PlayerScript.PlayerLookUp.VerifyUserInfo(String username, String password) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerScript\PlayerLookUp.cs:line 23
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 28
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 38
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-09 20:40:08,864 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-09 20:40:08,869 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-09 20:40:08,869 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-09 20:40:35,314 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-09 20:40:35,324 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-09 20:40:35,325 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-09 20:40:46,908 [8] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 20:40:51,485 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-09 20:41:27,292 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-09 20:54:48,496 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-09 20:54:53,415 [22] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-09 20:55:12,748 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-09 21:51:26,188 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-09 21:51:26,204 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-09 21:51:26,204 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
