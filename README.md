@@ -19,14 +19,18 @@ Step5: Open Unity, import my ClientAsset, then run in Unity.
 Now you can test the Login and Register function.
 
 Function has developed:
-BaseEnvironment, Register, Login, PlayerWeaponInfoSQL_Server
+BaseEnvironment, Register, Login, PlayerWeaponInfoSQL_Server， WeaponDetail
 
 Function under develop:
-WeaponDetail, PlayerWeaponInfoSQL_Client
+PlayerWeaponInfoSQL_Client
 
-Attention: the WeaponDetail will be a new solution, and that means it can develop in Team Mode, and make no effect in Server!
+Attention: the WeaponDetail is a new solution, and that means it can develop in Team Mode, and make no effect in Server! The more exciting function is I give a API to help Numercial Developer use less code, only no more than 10 lines to convert your ExcelInfo into the SQL Server! You may noticed that all the Info is Enum, it`s so convinent for the Message transfer between Client and Server!
 
-PS: The developer only have myself, so this architecture may have some issue. And if you have questions, please tell me.
+Again, no more than 10 lines! 
+
+For this function, I give a file.excel, you can test it in my Develop.Item.Server projects.
+
+PS: The developer is only myself, so this architecture may have some issue. And if you have questions, please tell me.
 
 PPS: I want to find a job in Japan, I can speak Chinese and English, also studying the Japanese. If you want to find a programmer who can develop with Server, please consider my offer!
 
