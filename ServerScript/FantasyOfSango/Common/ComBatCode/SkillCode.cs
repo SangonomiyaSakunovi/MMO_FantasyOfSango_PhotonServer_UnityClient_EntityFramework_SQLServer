@@ -12,6 +12,8 @@ namespace Common.ComBatCode
     public enum SkillCode
     {
         Default,
-        RecoverHP
+        RecoverHP,
+        ShieldSword,
+        MagicJudge
     }
 }

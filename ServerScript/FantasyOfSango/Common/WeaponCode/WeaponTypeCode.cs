@@ -7,6 +7,7 @@ namespace Common.WeaponCode
     {
         Default,
         Bow,
-        Sword
+        Sword,
+        Wand
     }
 }

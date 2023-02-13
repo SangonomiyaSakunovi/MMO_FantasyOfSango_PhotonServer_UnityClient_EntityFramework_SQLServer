@@ -84,3 +84,9 @@ D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigrat
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\obj\Debug\PlayerMigration.pdb
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\Common.dll
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\Common.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\EPPlus.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\EPPlus.Interfaces.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\EPPlus.System.Drawing.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\EPPlus.xml
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerMigration\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

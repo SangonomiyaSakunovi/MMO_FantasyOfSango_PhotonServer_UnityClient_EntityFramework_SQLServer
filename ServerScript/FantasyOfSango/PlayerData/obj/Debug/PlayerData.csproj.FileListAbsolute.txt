@@ -7,3 +7,9 @@ D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\o
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Common.dll
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Common.pdb
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\obj\Debug\PlayerData.csproj.CopyComplete
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\EPPlus.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\EPPlus.Interfaces.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\EPPlus.System.Drawing.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\EPPlus.xml
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\PlayerData\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml

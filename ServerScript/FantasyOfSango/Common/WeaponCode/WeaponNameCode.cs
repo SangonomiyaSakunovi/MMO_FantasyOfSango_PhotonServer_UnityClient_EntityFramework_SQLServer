@@ -12,8 +12,8 @@ namespace Common.WeaponCode
     public enum WeaponNameCode
     {
         Default,
-        Error,
         CureBow,
-        AttackSword
+        AttackSword,
+        IceWand
     }
 }

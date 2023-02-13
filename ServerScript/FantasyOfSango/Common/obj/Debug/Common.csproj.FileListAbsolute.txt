@@ -4,3 +4,10 @@ D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\D
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.dll
 D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.pdb
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\EPPlus.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\EPPlus.Interfaces.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\EPPlus.System.Drawing.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\EPPlus.xml
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\Common\obj\Debug\Common.csproj.CopyComplete

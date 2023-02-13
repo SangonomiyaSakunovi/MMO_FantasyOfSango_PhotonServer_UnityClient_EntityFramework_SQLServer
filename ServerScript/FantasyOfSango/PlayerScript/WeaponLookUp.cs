@@ -26,7 +26,7 @@ namespace PlayerScript
                 }
                 else
                 {
-                    return context.WeaponInfos.SingleOrDefault(x => x.WeaponName == WeaponNameCode.Error);
+                    return context.WeaponInfos.SingleOrDefault(x => x.WeaponName == WeaponNameCode.Default);
                 }
             }                     
         }

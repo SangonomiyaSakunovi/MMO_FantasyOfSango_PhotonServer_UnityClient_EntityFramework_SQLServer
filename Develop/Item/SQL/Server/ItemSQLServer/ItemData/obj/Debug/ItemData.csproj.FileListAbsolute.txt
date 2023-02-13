@@ -1,0 +1,15 @@
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\ItemData.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\ItemData.pdb
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\Common.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\Common.pdb
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\obj\Debug\ItemData.csproj.AssemblyReference.cache
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\obj\Debug\ItemData.csproj.CoreCompileInputs.cache
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\obj\Debug\ItemData.csproj.CopyComplete
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\obj\Debug\ItemData.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\obj\Debug\ItemData.pdb
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\EPPlus.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\EPPlus.Interfaces.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\EPPlus.System.Drawing.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\EPPlus.xml
+D:\FantasyOfSango\Develop\Item\SQL\Server\ItemSQLServer\ItemData\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
