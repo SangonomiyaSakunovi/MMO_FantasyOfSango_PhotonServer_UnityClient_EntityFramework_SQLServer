@@ -1,6 +1,8 @@
 # MMO_FantasyOfSango_PhotonServer_UnityClient_EntityFramework_SQLServer
 This project include the Server with Photon, Client with Unity, SQL with EntityFramework, and other develop projects, you can see video in https://space.bilibili.com/688232699
 
+Attention!!! This project now used as a demo to find job, so it will be set as private, and the Update folder will upload some RAR. If you have the password, you can download and then do the test. If you not, you also can down load the original version, all my projects were stated from them, thanks you!
+
 First, thanks for download my projects, and if you like, please give me some suggestions to help me develop it. 
 And you may realize that it`s so easy to develop with my architecture! You can code only with C#, but you can control all the Client/Server/SQL, just some steps, so simple!
 
